@@ -12,3 +12,4 @@ spring:
    profiles:test
    application:
       name: SpringCloud-config-test
+##http://localhost:3344/application/dev/master    http://localhost:3344/master/application-dev.yml http://localhost:3344/application-dev.yml 调用方法
